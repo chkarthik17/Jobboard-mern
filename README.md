@@ -1,4 +1,4 @@
-# Jobboard – MERN Career Platform 🚀
+# NextHire Career Platform 🚀
 
 A full-stack **Job Board & Career Platform** built using the **MERN stack**.  
 This platform helps job seekers explore trending tech news, find jobs, and access preparation resources — all in one place.
