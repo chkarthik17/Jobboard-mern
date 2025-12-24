@@ -51,3 +51,33 @@ This platform helps job seekers explore trending tech news, find jobs, and acces
 
 ## 📁 Project Structure
 
+
+Jobboard/
+├── backend/
+│ ├── models/
+│ ├── routes/
+│ ├── controllers/
+│ ├── server.js
+│ └── .env (ignored)
+│
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ ├── layouts/
+│ │ └── api/
+│ └── main.jsx
+│
+└── README.md
+
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/chkarthik17/Jobboard-mern.git
+
+
