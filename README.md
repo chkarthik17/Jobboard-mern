@@ -72,6 +72,9 @@ Jobboard/
 
 
 
+
+
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -79,5 +82,7 @@ Jobboard/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/chkarthik17/Jobboard-mern.git
+
+
 
 
